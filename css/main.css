@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#contentContainer {
+  width: 80%;
+  margin: 60px auto;
+}
+
+.productCard:nth-child(odd) {
+  background: #7BA9D0;
+}
